@@ -23,7 +23,5 @@
 
 <h1> My Media🔮 : </h1>
   <div>
-    <ul>
-      <li> Spotify : <a href="https://open.spotify.com/user/sorin006730">Sorin`s Spotify</a> </li>
-    </ul>
+      <a href="https://open.spotify.com/user/sorin006730"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
   </div>
