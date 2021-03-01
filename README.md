@@ -18,10 +18,10 @@
       <li> 🛑 Adobe Premiere Pro </li>
       <li> 🛑 C++ </LI
       <li> 🛑 OOP Principles </li>
-  <li> 🛑INCOMING STUFF🛑 </li>
+  <li> 🛑 INCOMING STUFF🛑 </li>
 </div>
 
-<h1> My Media : </h1>
+<h1> My Media🔮 : </h1>
   <div>
     <ul>
       <li> Spotify : <a href="https://open.spotify.com/user/sorin006730">Sorin`s Spotify</a> </li>
