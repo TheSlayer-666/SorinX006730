@@ -24,6 +24,6 @@
 <h1> My Media : </h1>
   <div>
     <ul>
-      <li> Spotify : <a href="https://open.spotify.com/user/sorin006730"> test</a> </li>
+      <li> Spotify : <a href="https://open.spotify.com/user/sorin006730">Sorin`s Spotify</a> </li>
     </ul>
   </div>
