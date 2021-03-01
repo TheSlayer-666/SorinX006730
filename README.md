@@ -20,3 +20,10 @@
       <li> 🛑 OOP Principles </li>
   <li> 🛑INCOMING STUFF🛑 </li>
 </div>
+
+<h1> My Media : </h1>
+  <div>
+    <ul>
+      <li> Spotify : <a href="https://open.spotify.com/user/sorin006730"> test</a> </li>
+    </ul>
+  </div>
